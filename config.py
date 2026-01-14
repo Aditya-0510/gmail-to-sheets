@@ -11,5 +11,5 @@ CREDENTIALS_FILE = os.path.join(BASE_DIR, 'credentials', 'credentials.json')
 TOKEN_FILE = os.path.join(BASE_DIR, 'credentials', 'token.json')
 STATE_FILE = os.path.join(BASE_DIR, 'start_history.json')
 
-SPREADSHEET_ID = '129gqU8DmDAI-nPT4zrP3JpwO-sOB10zTysJoq6SyM4E' 
+SPREADSHEET_ID = 'YOUR_SPREADSHEET_ID_HERE' 
 RANGE_NAME = 'Sheet1!A:D' 
